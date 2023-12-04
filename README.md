@@ -1,9 +1,10 @@
 ## <samp>&gt; Hi there, I'm Haikoo
 
-- 🚀 A Third year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
-- 👀 Interested in Machine Learning, Deep Learning, Artificial Intelligence and its applications.
+- 🚀 A Final year Undergraduate in the discipline of Computer Science and Engineering at IIT Gandhinagar.
+- ⭐ Applying for MS in Computer Science (Fall'24)
+- 👀 Interested in Bayesian Machine Learning, Active Learning, Generative models and machine learning applications.
 - ✉️ Contact me on haikoo.ashok@iitgn.ac.in
-- 🌱 Past experience of working as a Deep learning intern at Mastek and as an App developer intern at Pravaig Dynamics.
+- 🌱 Past experience of working as a research intern at TCS Research, Deep learning intern at Mastek and as an App developer intern at Pravaig Dynamics.
   
 <a href="https://www.twitter.com/HaikooKhandor" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/HaikooKhandor?logo=twitter&style=for-the-badge&color=0891b2&labelColor=000000"
